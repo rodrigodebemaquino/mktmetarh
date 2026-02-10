@@ -283,7 +283,7 @@ const DownloadsSection = ({ showToast }: { showToast: () => void }) => {
     },
     {
       title: 'Capas e Fundos METARH',
-      format: 'Capas Linkedin, Meeting, Wallpapers',
+      format: 'Capas Linkedin, Google Meet, Wallpapers',
       category: 'Mídia',
       url: 'https://drive.google.com/drive/u/0/folders/1I_PLVRVQoOoq9xemEQpX8iW6j87H5ome',
       icon: Monitor,
