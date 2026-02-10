@@ -282,8 +282,8 @@ const DownloadsSection = ({ showToast }: { showToast: () => void }) => {
       image: 'https://metarh.com.br/wp-content/uploads/2026/01/Vintrine-Banco-de-Imagens.png'
     },
     {
-      title: 'Fundos de Reunião',
-      format: 'JPG',
+      title: 'Capas e Fundos METARH',
+      format: 'Capas Linkedin, Meeting, Wallpapers',
       category: 'Mídia',
       url: 'https://drive.google.com/drive/u/0/folders/1I_PLVRVQoOoq9xemEQpX8iW6j87H5ome',
       icon: Monitor,
